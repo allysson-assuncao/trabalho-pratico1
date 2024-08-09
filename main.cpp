@@ -97,4 +97,5 @@ int main() {
     cout << "Após " << tempoBusca << " minutos de busca, " << (joseEncontrou ? "Jose " : "Maria ") << "encontrou Fuba!" << endl;
 
     return 0;
+
 }
